@@ -1,0 +1,18 @@
+{
+    "Persons": [
+        {
+            "url": "svn://xx/",
+            "username": "test",
+            "password": "123456",
+            "local": "E:/Game/Tools/1111111/AI",
+            "lastver": 14783
+        },
+        {
+            "url": "svn://xx/Armor",
+            "username": "test",
+            "password": "123456",
+            "local": "E:/Game/Tools/1111111/Armor",
+            "lastver": 14783
+        }
+    ]
+}
